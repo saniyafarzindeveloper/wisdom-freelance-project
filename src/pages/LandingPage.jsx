@@ -11,7 +11,7 @@ import Courses from "../components/Courses";
 import Gallery from "../components/Gallery";
 
 export default function LandingPage() {
-  // Example usage of the Features component
+  
   const featureData = [
     {
       imageSrc: "path/to/support-image.png",
